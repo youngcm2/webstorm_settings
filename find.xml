@@ -1,21 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="File '.../src/app/auth/components/reset-password.component.ts [Volt.Walmart.Dashboard]'" />
+    <option name="defaultScopeName" value="File '.../src/app/auth/components/reset-password.component.ts [Volt.Walmart.Dashboard]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>api.client.ts</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="File '.../src/app/auth/components/reset-password.component.ts [Volt.Walmart.Dashboard]'" />
   </component>
 </application>
