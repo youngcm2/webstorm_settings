@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="dockerfile" type="Dockerfile" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="Reorder" type="PLAIN_TEXT" />
