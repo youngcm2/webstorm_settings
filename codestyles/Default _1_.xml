@@ -1,6 +1,7 @@
 <code_scheme name="Default (1)" version="173">
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="BLACKLIST_IMPORTS" value="rxjs,primeng/primeng" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="BLACKLIST_IMPORTS" value="primeng/primeng,rxjs/add" />
   </TypeScriptCodeStyleSettings>
 </code_scheme>
