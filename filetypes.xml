@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="webmanifest" type="JSON" />
-      <mapping ext="config" type="XML" />
-    </extensionMap>
-  </component>
-</application>
