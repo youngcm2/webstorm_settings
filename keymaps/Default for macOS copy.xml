@@ -1,4 +1,9 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorLookupUp" />
+  <action id="MembersPullUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="MethodUp" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
